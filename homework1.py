@@ -1,9 +1,10 @@
-def personal_details():
-    name, age = "Emmanuel Amaechi", 25
-    address = "Ikot Ekpene, Uyo, Nigeria"
-    print("Name: {}\nAge: {}\nAddress: {}".format(name, age, address))
- 
+print("Amechi Emmanuel C")
+print("Releaf")
+print("Uyo, Nigeria")
+print("+234")
+print("Nigeria")      
 
 
 
 
+print("Amaechi Emmanuel C"*10)
